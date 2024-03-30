@@ -1,4 +1,4 @@
-** Hi, it is Hm431.
+**Hi, it is Hm431.
 Я front-end разработочик. 
 Мой стек html, css, Js, React.
 Занимиаюсь разработкой с 2022 года. 
