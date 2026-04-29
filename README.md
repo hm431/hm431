@@ -28,6 +28,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=databricks&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/ETL-FF6F61?style=flat-square" alt="ETL"/>
+  <img src="https://img.shields.io/badge/ETL-FF6F61?style=flat-square" alt="Visiology"/>
   <img src="https://img.shields.io/badge/Data%20Modeling-6A0DAD?style=flat-square" alt="Data Modeling"/>
 </p>
 
