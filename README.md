@@ -2,8 +2,6 @@
 
 <p align="center">
   <em>BI Developer & Full-Stack Engineer</em><br>
-  <em>Превращаю данные в решения, а идеи — в работающие продукты.</em><br>
-  <em>I turn data into decisions and ideas into shipped products.</em>
 </p>
 
 <p align="center">
