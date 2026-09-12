@@ -83,16 +83,7 @@
 > В профиле также есть учебные работы с Я.Практикум и pet-проекты.<br>
 > The profile also includes Yandex.Practicum coursework and pet-projects.
 
----
 
-## 📈 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hm431&show_icons=true&hide_border=true&theme=default&count_private=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hm431&layout=compact&hide_border=true&theme=default" alt="Top languages" height="165"/>
-</p>
-
----
 
 ## 📬 Контакты / Get in touch
 
