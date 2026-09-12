@@ -78,7 +78,7 @@
 | 🎬 [movies-explorer-api](https://github.com/hm431/movies-explorer-api) | Node.js · Express · MongoDB | REST API дипломного проекта / Diploma project REST API |
 | 🖼️ [mesto-react](https://github.com/hm431/mesto-react) | React · CSS | Приложение для обмена фотографиями / Photo-sharing React app |
 | 🗺️ [russian-travel](https://github.com/hm431/russian-travel) | HTML · CSS | Адаптивный лендинг о путешествиях по России / Responsive travel landing |
-| 🗺️ [magister-diploma]((https://github.com/hm431/Magister_diploma_next) | nextJS |  |
+| 🗺️ [magister-diploma](https://github.com/hm431/Magister_diploma_next) | nextJS | Магистрский проект|
 
 > В профиле также есть учебные работы с Я.Практикум и pet-проекты.<br>
 > The profile also includes Yandex.Practicum coursework and pet-projects.
